@@ -14,7 +14,8 @@ nombre = "Karen Ulcue";
 let estudiante = true;
 let sinValor;
 let valorNulo = null;
-
+console.log(nombre); 
+console.log(estudiante); 
 console.log(sinValor);
 console.log(valorNulo);
 

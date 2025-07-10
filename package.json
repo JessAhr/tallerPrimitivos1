@@ -1,0 +1,23 @@
+{
+  "name": "tallerprimitivos",
+  "version": "1.0.0",
+  "main": "variablesYTiposDeDatos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessAhr/tallerPrimitivos1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessAhr/tallerPrimitivos1/issues"
+  },
+  "homepage": "https://github.com/JessAhr/tallerPrimitivos1#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
