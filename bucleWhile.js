@@ -16,4 +16,14 @@ while (contador <= numeroUsuarioBucle){
     console.log("itracion: ", contador);
     contador=contador+1;
 }
+let contrasena = "123";
+let ingresoUsuario= prompt ("ingrese una contraseña de 3 digitos: ");
+
+while (ingresoUsuario !== contrasena || ingresoUsuario.length !== 3) {
+     ingresoUsuario = prompt("Contraseña incorrecta o  tiene mas de 3 digitos. Intente de nuevo: ");
+
     
+}
+
+console.log("Contraseña correcta");
+
